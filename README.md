@@ -19,4 +19,6 @@
 ## Key Learning Projects
 - **B2B SaaS GTM Research:** Analyzing strategies from top industry leaders (e.g., TK Kader) to build scalable marketing playbooks.
 ## Research Archive
-- **[TK Kader - GTM Launch Strategy](Research/Youtube-Transcripts/TK_Kader_Launch_Plan.md)**
+### Research Archive
+- [TK Kader - GTM Launch Strategy](Research/Youtube-Transcripts/TK_Kader_Launch_Plan.md)
+- [Dan Martell - SaaS Growth Strategies](Research/Youtube-Transcripts/Dan_Martell_SaaS_Growth.md)
