@@ -1,5 +1,5 @@
 # Source: TK Kader - Go-To-Market Launch Plan For A New SaaS Product
-# Link: https://www.youtube.com/watch?v=445xxQIT-sQ
+Link: https://www.youtube.com/watch?v=445xxQIT-sQ
 
 ## Summary
 The core Go-To-Market (GTM) strategy for launching a new B2B SaaS product is to avoid a broad, unfocused launch. Instead, build a tightly aligned launch motion around a specific Ideal Customer Profile (ICP), a clear business problem, and a focused sales and marketing narrative. A successful launch treats the GTM motion as a structured campaign—incorporating pre-launch preparation, launch-day activation, and post-launch optimization—rather than a one-day event.
