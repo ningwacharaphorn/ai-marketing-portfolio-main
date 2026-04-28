@@ -1,23 +1,19 @@
-Source: Noah Kagan - The Rule of 100: How to Get Your First Customers
+# Source: Dan Martell - How to Scale Your SaaS to $10M ARR
 
-Link: https://www.youtube.com/watch?v=FjIuC9I_3tQ
+Link: [https://www.youtube.com/watch?v=R39t6p6jU70](https://www.youtube.com/watch?v=R39t6p6jU70)
 
 ## Summary
-
-The "Rule of 100" is a framework popularized by Noah Kagan to help marketers and founders consistently take action and overcome stagnation in their early growth efforts. The core of the rule is to execute 100 marketing actions—emails sent, cold calls made, social posts published, or any outreach attempts—before evaluating results or pivoting strategies. By committing to taking 100 specific actions, you eliminate the urge to judge too early or get discouraged by slow results. The Rule of 100 underscores that consistency, not perfection or quick wins, is the key to unlocking opportunities, learning what works, and ultimately driving significant marketing growth.
+Dan Martell explains the "Buy Back Your Time" framework specifically for SaaS founders. The focus is on moving from a technician to a CEO by building systems that allow the business to grow without the founder's constant manual input.
 
 ## Key Points
-
-1. **Overcoming the Fear of Failure:** The Rule of 100 shifts your mindset from fearing rejection or short-term setbacks to focusing on completing the process—making it easier to start and keep going.
-2. **Data Collection:** By performing 100 actions, you get enough data to accurately assess what works and what doesn't, rather than drawing conclusions from a small, unrepresentative sample.
-3. **Finding the Winning Channel:** Committing to 100 attempts enables you to discover which outreach channels, messages, or campaigns deliver results, helping you double down on what's effective.
+* **The Buyback Principle:** Don't hire to grow your business; hire to buy back your time.
+* **The Replacement Ladder:** Successively hire for Admin, Operations, then Sales.
+* **Metric-Driven Growth:** Focus on Net Revenue Retention (NRR) as the primary growth engine.
 
 ## Actionable Takeaways
-
-1. **Define Your Target Action:** Choose one measurable activity (e.g., emails, DMs, calls) that directly connects to customer acquisition, and set a goal to complete 100 iterations.
-2. **Track Every Attempt:** Keep a simple tally or spreadsheet to record each outreach, message, or experiment, ensuring you don’t lose momentum in the middle.
-3. **Review and Iterate After 100:** Only after completing all 100 actions, analyze your results to see which approaches performed best and adjust your campaign accordingly.
+1. Audit your calendar and identify tasks that give you low energy.
+2. Create "Standard Operating Procedures" (SOPs) for every repetitive task.
+3. Focus on customer success to reduce churn before increasing ad spend.
 
 ## Bottom Line
-
-Consistency in execution outperforms the search for the perfect strategy when finding your first 100 customers.
+Scaling a business is not about doing more work, but about building a system that works for you.
