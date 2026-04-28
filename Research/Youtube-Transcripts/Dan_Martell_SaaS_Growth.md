@@ -17,10 +17,10 @@ From manufacturing (lean/systemization), he emphasizes building product and deli
 * **Pricing:**  Explain pattern-matching successful offers from fast-growing companies.
 He points out pricing tactics are “all around you” and encourages studying fast-growing companies’ offers (discounts, guarantees, bundling, “buy one get one,” packaging). The key is to observe what’s converting in the real world and adapt those offer mechanics to your SaaS.
 
-## Actionable Takeaways
-1.Implement a proactive account review to identify upsell opportunities.
-2.Re-map sales messaging to focus on specific customer problems (Solution Selling).
-3.Audit and simplify your onboarding flow to ensure immediate value perception.
+## 3 Actionable Takeaways
+1. Implement a proactive account review to identify upsell opportunities.
+2. Re-map sales messaging to focus on specific customer problems (Solution Selling).
+3. Audit and simplify your onboarding flow to ensure immediate value perception.
 
-## Bottom Line
-Success leaves clues; stop doing what everyone else is doing and start "R&D" (Rob and Duplicate) successful systems from non-competitive industries to get an unfair advantage.
+---
+**Bottom Line:** Success leaves clues; stop doing what everyone else is doing and start "R&D" (Rob and Duplicate) successful systems from non-competitive industries to get an unfair advantage.
