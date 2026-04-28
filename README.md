@@ -18,3 +18,5 @@
 - **Future Growth:** Beyond successfully completing this setup, this experience has sparked a strong interest in AI-assisted workflows. I am eager to continue exploring these tools to further enhance my technical skills, as I see them as vital components for driving innovation and efficiency in my future marketing work.
 ## Key Learning Projects
 - **B2B SaaS GTM Research:** Analyzing strategies from top industry leaders (e.g., TK Kader) to build scalable marketing playbooks.
+## Research Archive
+- **[TK Kader - GTM Launch Strategy](Research/Youtube-Transcripts/TK_Kader_Launch_Plan.md)**
