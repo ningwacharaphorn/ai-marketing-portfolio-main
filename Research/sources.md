@@ -1,6 +1,9 @@
-**Topic:** YouTube Content Strategy for B2B SaaS  
-**Research Date:** April 2026
+# Topic: YouTube Content Strategy for B2B SaaS
+
+**Research Date:** April 2026  
 **Selection Criteria:** Proven operators with verifiable B2B SaaS growth results and high-impact educational frameworks.
+
+---
 
 ---
 ## Expert List & Strategic Analysis
