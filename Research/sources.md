@@ -4,8 +4,6 @@
 **Selection Criteria:** Proven operators with verifiable B2B SaaS growth results and high-impact educational frameworks.
 
 ---
-
----
 ## Expert List & Strategic Analysis
 
 ### 1. TK Kader
