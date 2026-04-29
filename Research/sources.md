@@ -1,12 +1,11 @@
 # Topic: YouTube Content Strategy for B2B SaaS
 
-**Research Date:** April 2026  
+**Research Date:** April 2026
 **Selection Criteria:** Proven operators with verifiable B2B SaaS growth results and high-impact educational frameworks.
 
----
 ## Expert List & Strategic Analysis
 
-### 1. TK Kader
+### [1. TK Kader](./Youtube-Transcripts/TK_Kader_Launch_Plan.md)
 - **YouTube:** [Visit Channel](https://www.youtube.com/@TKKader)
 - **Background:** Former Founder of ToutApp (acquired by Adobe/Marketo) and SaaS GTM specialist.
 - **Why Selected:** Master of Go-to-Market (GTM) architecture and scalable content systems.
@@ -17,7 +16,7 @@
 
 ---
 
-### 2. Dan Martell
+### [2. Dan Martell](./Youtube-Transcripts/Dan_Martell_SaaS_Growth.md)
 - **YouTube:** [Visit Channel](https://www.youtube.com/@DanMartell)
 - **Background:** Serial SaaS founder (3 exits), CEO of SaaS Academy, and prominent investor.
 - **Why Selected:** The industry standard for content consistency and B2B funnel architecture.
