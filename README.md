@@ -16,8 +16,10 @@
 - **Solution:** I carefully followed the documentation and verified the integration settings. By utilizing the "Clone Repository" feature and ensuring proper synchronization, I successfully linked my local environment to the remote repository. 
 - **Key Takeaway:** This process was a fantastic introduction to **AI-native development tools**. I learned how to effectively navigate repository structures and utilize advanced features within **Cursor IDE, Claude Code, and Codex**. 
 - **Future Growth:** Beyond successfully completing this setup, this experience has sparked a strong interest in AI-assisted workflows. I am eager to continue exploring these tools to further enhance my technical skills, as I see them as vital components for driving innovation and efficiency in my future marketing work.
-## Key Learning Projects
-- **Strategic Synthesis:** Currently compiling data across 10 industry experts. A comprehensive synthesis of scaling playbooks and growth patterns will be finalized upon completion of the research phase.
+
+## 🌐 **Market Research Overview**
+
+*   **Strategic Analysis:** [Explore the Top 10 B2B SaaS Experts & Content Strategies](./Research/sources.md) — *A deep dive into industry leaders and their proven growth frameworks.*
 ## Research Archive
 - [TK Kader - GTM Launch Strategy](Research/Youtube-Transcripts/TK_Kader_Launch_Plan.md)
 - [Dan Martell - SaaS Growth Strategies](Research/Youtube-Transcripts/Dan_Martell_SaaS_Growth.md)
