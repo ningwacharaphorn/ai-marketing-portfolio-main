@@ -1,6 +1,6 @@
 ## Top 10 B2B SaaS Experts: YouTube Content & Growth Strategies
 
-### [1. Sam Oh (Ahrefs)]
+### 1. Sam Oh (Ahrefs)
 - **YouTube:** [Visit Channel](https://www.youtube.com/@AhrefsCom)
 - **Background:** VP of Marketing at Ahrefs. He is a pioneer in turning technical SEO knowledge into high-performance video marketing assets for a global SaaS audience.
 - **Why Selected:** An expert in YouTube SEO and Search-Driven Content. He specializes in capturing intent-based traffic, making him the gold standard for B2B SaaS video strategy.
@@ -11,13 +11,13 @@
 
 ---
 
-### [2. Dan Martell](./Youtube-Transcripts/Dan_Martell_SaaS_Growth.md)
-- **YouTube:** [Visit Channel](https://www.youtube.com/@DanMartell)
-- **Background:** Serial SaaS founder (3 exits), CEO of SaaS Academy, and prominent investor.
-- **Why Selected:** The industry standard for content consistency and B2B funnel architecture.
-- **Proven Success:** Built SaaS Academy into one of the world's largest coaching programs for SaaS founders, helping clients add over $1B in new ARR.
-- **Recommended Video:** *"5 SaaS Growth Strategies From Non-SaaS Businesses"*
-- **What to Extract:** The ACES Growth Framework and psychological triggers for high viewer retention.
-- **Strategic Insight:** Consistency in publishing (The Weekly Cadence) combined with a defined funnel architecture (YouTube-to-Lead) builds an unbreakable "Trust Flywheel" that compounds over time.
+### 2. Eric Siu
+- **YouTube:** [Visit Channel](https://www.youtube.com/c/LevelingUpOfficial)
+- **Background:** Founder of Single Grain (growth marketing agency) and host of Marketing School + Leveling Up; focuses on B2B growth, SEO, and AI-driven marketing operations.
+- **Why Selected:** Clear “AI accountability” lens—cuts through hype and forces teams to tie AI adoption to measurable business outcomes (revenue, cost reduction, conversion).
+- **Proven Success:** Built a large audience through podcasts/content and applies performance-driven growth systems across B2B marketing, SEO, and go-to-market execution.
+- **Recommended Video:** *"The New Rules of B2B Marketing 2026"* 
+- **What to Extract:** The AI accountability framework (metric-first use cases), real AI ROI examples (cost savings + revenue attribution), and the shift from Google-only SEO to AI visibility (citations/mentions in AI systems).
+- **Strategic Insight for B2B SaaS:** For SaaS, Eric emphasizes building a "Media Machine" through Content Sprouting and pSEO to dominate the search landscape across all channels. By transforming a single piece of content into a versatile marketing weapon, brands can generate continuous awareness and sustainable leads.
 
 ---
