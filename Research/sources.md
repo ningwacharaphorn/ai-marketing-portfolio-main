@@ -1,4 +1,4 @@
-## Topic: YouTube Content Strategy for B2B SaaS
+## Top 10 B2B SaaS Experts: YouTube Content & Growth Strategies
 
 ### [1. Sam Oh (Ahrefs)]
 - **YouTube:** [Visit Channel](https://www.youtube.com/@AhrefsCom)
