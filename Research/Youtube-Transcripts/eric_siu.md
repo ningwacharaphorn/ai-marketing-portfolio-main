@@ -1,26 +1,17 @@
-# Source: Dan Martell - 5 SaaS Growth Strategies From Non-SaaS Businesses
+# Source: Eric Siu - The New Rules of B2B Marketing 2026
+Link:  https://www.youtube.com/watch?v=bGjZzSY_-HQ
 
-Link: https://www.youtube.com/watch?v=dCh1fKcUcds
+Content date:  Nov 28, 2025
 
 ## Summary
-Dan Martell explains that the fastest way to create an unfair advantage in SaaS growth is to borrow proven systems from industries that don’t compete with you. He highlights five leverage points—upsells, use-case selling, activation, product design, and pricing—and shows how non-SaaS operators (gyms/fitness, consulting, gaming, and manufacturing) have already solved these problems at a high level. The throughline is: stop copying other SaaS companies and start doing “R&D” (Rob and Duplicate) the best mechanics from elsewhere, then adapt them into your SaaS model to improve conversion, shorten sales cycles, reduce churn, and increase revenue per customer.
+This video explains why “old” B2B marketing playbooks are failing going into 2026: buyers do more research in private, channels are more fragmented, AI is changing how people discover information, and attribution is getting less reliable. The new approach is to shift from lead-centric, campaign-first marketing to a system that builds trust, captures demand signals across multiple surfaces, and compounds attention through consistent content + distribution.
 
-## Key Points
-* **Upsells:** Explain "Success as a Service" and looking for opportunities to solve deeper problems.
-Dan uses lessons from the gym/fitness industry (e.g., how gyms monetize beyond the initial membership) to emphasize structured upsells after initial purchase. The idea is to look beyond the surface “tool” and offer outcome-driven add-ons (implementation help, coaching, done-with-you setup, advanced workflows) that solve deeper problems customers have once they commit.
-* **Use Case Selling:** Explain packaging features into solutions to cut sales cycles.
-From consulting, he borrows “solution selling”: even if the underlying capability is the same, you should package and position the product around a specific use case/outcome (e.g., lead generation vs. quoting vs. scheduling). This makes the offer easier to understand, improves win rates, and reduces sales cyclesbecause prospects quickly see themselves in the solution.
-* **Activation:**  Explain the gaming industry inspiration for user onboarding.
-From gaming, he stresses that users need to learn terminology, flows, and success paths quickly. Great games engineer early progress; similarly, SaaS should design onboarding so users reach a clear first win fast—guided setup, obvious next steps, and a path that reduces confusion and time-to-value.
-* **Product Design:** Explain the manufacturing/systemization approach to reduce defects.
-From manufacturing (lean/systemization), he emphasizes building product and delivery like a repeatable system: reduce defects, remove bottlenecks, standardize what works, and make improvements continuously. The goal is fewer errors, more predictable outcomes, and smoother scaling.
-* **Pricing:**  Explain pattern-matching successful offers from fast-growing companies.
-He points out pricing tactics are “all around you” and encourages studying fast-growing companies’ offers (discounts, guarantees, bundling, “buy one get one,” packaging). The key is to observe what’s converting in the real world and adapt those offer mechanics to your SaaS.
-
-## 3 Actionable Takeaways
-1. Implement a proactive account review to identify upsell opportunities.
-2. Re-map sales messaging to focus on specific customer problems (Solution Selling).
-3. Audit and simplify your onboarding flow to ensure immediate value perception.
-
+## Key points (the “new rules” workflow)
+1. **Accept that buyers are “darker” now:** More buying happens without form-fills or trackable clicks, so marketing needs to win earlier through trust, visibility, and repeated exposure.
+2. **Move from lead metrics to business outcomes:** Optimize for pipeline/revenue impact and account-level progress (buying groups), not just MQLs, CTRs, or isolated channel KPIs.
+3. **Build authority across multiple platforms:** “SEO” is no longer only Google—YouTube, social platforms, communities, and AI-assisted discovery all influence buying decisions.
+4. **Use AI as an operating model, not a gimmick:** AI should speed up research, ideation, repurposing, and iteration—but quality control and positioning still require human judgment.
+5. **Prioritize brand + trust as the moat:** When products and tactics are easier to copy, differentiation comes from clarity of message, consistency, and credibility.
+6. **Systematize content + distribution:** Create a repeatable engine (create once → repurpose → distribute → learn → improve) instead of one-off campaigns.
 ---
-**Bottom Line:** Success leaves clues; stop doing what everyone else is doing and start "R&D" (Rob and Duplicate) successful systems from non-competitive industries to get an unfair advantage.
+**Bottom Line:** In 2026, B2B marketing wins shift from “running more campaigns” to building a trust-and-signal-driven system: show up across surfaces, create consistently high-quality content, use AI to increase speed, and measure what actually moves accounts toward revenue.
