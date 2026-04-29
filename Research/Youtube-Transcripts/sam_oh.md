@@ -1,26 +1,17 @@
-# Source: TK Kader - Go-To-Market Launch Plan For A New SaaS Product
-Link: https://www.youtube.com/watch?v=445xxQIT-sQ
+# Source: Sam Oh - How I’d Use YouTube SEO to Get Millions of Views if I Had to Start Over
+Link:  https://www.youtube.com/watch?v=lgUrHqaPrhU
+Content date:  Apr 15, 2026
 
 ## Summary
-The core Go-To-Market (GTM) strategy for launching a new B2B SaaS product is to avoid a broad, unfocused launch. Instead, build a tightly aligned launch motion around a specific Ideal Customer Profile (ICP), a clear business problem, and a focused sales and marketing narrative. A successful launch treats the GTM motion as a structured campaign—incorporating pre-launch preparation, launch-day activation, and post-launch optimization—rather than a one-day event.
+This video lays out a search-first YouTube growth plan: instead of chasing virality, you build a library of evergreen videos targeting specific keywords people already search for. The goal is to consistently rank in YouTube Search, then let that traffic compound over time into “millions of views.”
 
-## Likely Core GTM Strategy
-1. **Start with a narrow ICP:** Focus on the most urgent, high-fit segment to ensure a faster sales cycle and stronger value realization.
-2. **Lead with the problem, not the product:** Explain the business problem and market shift first. Buyers care about outcomes (revenue, time savings, efficiency).
-3. **Build a "Why Now" narrative:** Explain why the old way is insufficient and why your product is the urgent solution.
-4. **Focused launch assets:** Center the launch around a few strong assets (landing page, demo video, webinar, and targeted outbound messaging).
-5. **Revenue team alignment:** Ensure marketing, sales, product, and customer success are using the same narrative and metrics.
-6. **Measure and iterate:** Use early data to refine messaging, pricing, and onboarding.
-
-## 3 Actionable Takeaways
-1. **Pick one ICP and one primary use case:** Keep the message specific to a single high-pain audience.
-2. **Create a repeatable launch narrative:** Define who it's for, the problem it solves, why the old way fails, the expected result, and the urgency.
-3. **Run the launch as a 30-90 day campaign:** Execute in three phases: Pre-launch (preparation), Launch (activation), and Post-launch (optimization).
-
-## Practical Launch Checklist
-* **Before:** Define ICP, finalize positioning, build landing page/demo, prepare sales messaging.
-* **During:** Publish announcement, share core assets (webinars/videos), execute targeted outbound, capture feedback.
-* **After:** Review conversion data, refine pricing, update talk tracks, gather testimonials.
+## Key points (the “start over” workflow)
+1. **Start with keyword research (before filming):** Pick topics based on what your audience is actively searching, prioritizing keywords where you can realistically compete and provide the best answer.
+2. **Match search intent perfectly:** Structure the video so it answers the query clearly and quickly (no long intro), with a strong “promise” up front.
+3. **Win the click:** Craft a title + thumbnail that clearly communicates the outcome and matches what searchers want, while standing out on the results page.
+4. **Earn the rank with retention:** Focus on watch time/engagement by keeping the video tight, removing fluff, and delivering value continuously so people don’t bounce.
+5. **Build topical clusters:** Publish multiple related videos around the same theme so YouTube can better understand your channel and viewers can binge (boosting suggested traffic).
+6. **Iterate using data:** Improve titles/thumbnails if CTR is weak, fix early drop-offs if retention is weak, and double down on topics that prove they can rank.
 
 ---
-**Bottom Line:** A narrow message, strong positioning, coordinated execution, and fast iteration will always outperform a broad, unfocused launch.
+**Bottom Line:** If you had to start from zero, the fastest repeatable path is YouTube-as-a-search-engine: target winnable keywords, make the best answer, optimize for CTR + retention, and let evergreen rankings compound into large view totals.
