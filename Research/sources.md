@@ -63,3 +63,14 @@
 - **Recommended Video:** *"Your Competitors Will Never Make These Videos (You Should)"*
 - **What to Extract:** The "Big 5" video topics that drive B2B sales (Pricing, Problems, Versus, Reviews, Best) and the "Assignment Selling" workflow.
 - **Strategic Insight for B2B SaaS:** For SaaS, Marcus emphasizes that "Trust is the Ultimate Currency." If your video content avoids difficult questions—like pricing, competitors, or drawbacks—you are pushing buyers away. Use YouTube to answer every uncomfortable question your customers have, becoming the most trusted teacher in your space.
+
+---
+
+### 7. Chris Savage (Wistia)
+- **YouTube:** [Visit Channel](https://www.youtube.com/@wistia)
+- **Background:** CEO and Co-founder of Wistia, a leading video marketing platform for businesses. Expert in "Brand Affinity" and human-centric video strategy.
+- **Why Selected:** To implement the "Human Connection" and "Brand Affinity" layer. Chris’s philosophy focuses on moving beyond mere views to building deep, emotional trust through video.
+- **Proven Success:** Built Wistia into a profitable, sustainable SaaS leader by prioritizing long-term brand building and creative storytelling over short-term growth hacks.
+- **Recommended Video:** *"Video Marketing for B2B Brands | Chris Savage | EP01"*
+- **What to Extract:** The "Brand Affinity" framework, the value of "Lo-fi" authentic production, and strategies for using video to humanize a technical SaaS product.
+- **Strategic Insight for B2B SaaS:** In an AI-saturated market, human faces and personal trust are "scarce resources." Chris emphasizes that your team's authenticity is a competitive moat. Use video to showcase your company culture and the "people" behind the software to create a brand that customers feel personally connected to, which directly improves retention and conversion.
