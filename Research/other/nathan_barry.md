@@ -26,6 +26,3 @@ Nathan Barry is a prominent software entrepreneur, author, and the founder of **
 ### 💡 Notable Background Insights
 - **The Media as Infrastructure:** Nathan views a YouTube channel not as a marketing expense, but as a core piece of business infrastructure that compounds in value.
 - **Strategic Insight for B2B SaaS:** For SaaS, Nathan emphasizes that "Media is Infrastructure." A YouTube channel isn't a marketing cost; it’s an asset that lowers Customer Acquisition Cost (CAC) over time by building a direct, trusted relationship with the audience.
-
----
-*Summarized from [NathanBarry.com](https://nathanbarry.com/) and [The Nathan Barry Show](https://www.youtube.com/@nathanbarry).*

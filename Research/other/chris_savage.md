@@ -26,6 +26,3 @@ Chris Savage is a visionary leader in the video marketing space, known for co-fo
 - **Brand over Leads:** Chris argues that the future of B2B marketing is in long-form storytelling and creative content that builds a loyal community, rather than just chasing lead-gen forms.
 - **Video as a Culture Tool:** He emphasizes that video should start internally. Using video for team updates and communication builds the "muscle" needed for successful external marketing.
 - **Refined Taste is the Moat:** In a world flooded with AI-generated content, Chris believes that a brand's unique "taste" and creative judgment are its most defensible assets.
-
----
-*Summarized from Wistia Corporate History and Chris Savage’s Professional Insights (2026).*

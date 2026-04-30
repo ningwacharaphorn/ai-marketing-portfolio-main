@@ -26,6 +26,3 @@ Gaetano DiNardi is a B2B growth advisor and consultant who went from music produ
 ### 💡 Notable Background Insights
 - **The Musician's Edge:** Gaetano credits his background in music production for his understanding of what makes content resonate. He approaches SEO and YouTube content the same way he approaches a record — with hooks, structure, and emotional clarity.
 - **Strategic Insight for B2B SaaS:** Gaetano highlights that most B2B SaaS companies are dramatically underutilizing YouTube. His research shows that YouTube videos now surface alongside blog posts in Google SERPs and are increasingly cited in AI Overviews — meaning a single well-optimized video can generate compounding visibility across both human search and AI discovery simultaneously.
-
----
-*Summarized from [Gaetano DiNardi's Official Site](https://officialgaetano.com/about/), [Marketing Advice](https://marketingadvice.io/), and [Nextiva Blog](https://www.nextiva.com/blog/author/gaetano-dinardi).*

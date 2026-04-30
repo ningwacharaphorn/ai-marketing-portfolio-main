@@ -28,6 +28,3 @@ Marcus Sheridan is a world-renowned speaker, author, and strategic advisor recog
 - **The "Big 5" Framework:** Marcus identified that all buyers care about 5 topics: Cost, Problems, Comparisons, Reviews, and Best.
 - **Authority Through Honesty:** He believes the most trusted brand is the one willing to show "The Bad and The Ugly" alongside the good.
 - **Action over Production:** Marcus emphasizes starting with a cell phone and raw authenticity rather than waiting for expensive gear.
-
----
-*Summarized from [Marcus Sheridan’s Official Site](https://marcussheridan.com/), [IMPACT Agency Archive](https://www.impactplus.com/marcus-sheridan), and [YouTube Strategy: Your Competitors Will Never Make These Videos](https://www.youtube.com/watch?v=F3_l-A6jl_E).*

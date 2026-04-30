@@ -30,6 +30,3 @@ Kieran Flanagan is a prominent B2B marketing leader and growth strategist known 
 - **Shift from Information to Authority:** As LLMs provide direct answers to informational queries, marketers must shift focus to creating unique awareness and authority that stands out.
 - **AI as an Execution Assistant:** AI should be used to reduce administrative overhead, moving from "thinking" about tasks to actually "doing" them, such as drafting emails or creating presentation decks.
 - **New Literacy (Prompting):** Treat prompting as a vital new skill; use advanced reasoning models for complex tasks and build custom GPTs to house proprietary frameworks.
-
----
-*Summarized from [Kieran Flanagan's LinkedIn Profile](https://www.linkedin.com/in/kieranflanagan/), [Marketing Against the Grain Podcast](https://www.youtube.com/@MarketingAgainstTheGrain), and [The Dave Gerhardt Show](https://www.youtube.com/watch?v=NQtml9AQZk8).*

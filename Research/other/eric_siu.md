@@ -28,6 +28,3 @@ Eric focused on building "Content Sprouting" and community-based marketing:
 ### 💡 Notable Background Insights
 - **Gaming Discipline:** Eric credits his success to his background as a hardcore gamer. He views business as the "ultimate game" where leveling up requires constant learning and strategic risk-taking.
 - **The Practitioner's Edge:** Unlike typical theorists, Eric's advice is rooted in the daily operations of managing an agency that handles millions in ad spend and SEO for B2B giants.
-
----
-*Summarized from [Eric Siu’s Official Bio](https://www.ericsiu.com/), [Single Grain Growth Stories](https://www.singlegrain.com/about/), and [Leveling Up Media Archive](https://www.levelingup.com/).*

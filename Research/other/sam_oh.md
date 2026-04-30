@@ -30,6 +30,3 @@ Before joining Ahrefs, Sam validated his marketing frameworks by building severa
 ### 💡 Notable Background Insights
 - **Former Pro-Gamer:** Before marketing, Sam was ranked **World #1** in an online game. He credits his "relentless" approach to SEO and marketing to the discipline learned during his gaming years.
 - **The Customer-First Philosophy:** Sam famously requires his team to understand customer pain points deeply, often advocating for marketers to spend time in support roles to inform their content strategy.
-
----
-*Summarized from [MyWifeQuitHerJob Podcast](https://mywifequitherjob.com/episode329/), [Databox Expert Series](https://databox.com/youtube-for-b2b), and [Ahrefs Corporate History](https://ahrefs.com/blog/author/sam-oh/).*

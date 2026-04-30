@@ -26,6 +26,3 @@ April Dunford is the industry’s leading authority on product positioning, help
 ### 💡 Notable Background Insights
 - **The "Context" Obsession:** April believes that humans are "meaning-making machines." If we don't tell them what category our product is in, they will guess—and they will usually guess wrong.
 - **Strategic Insight for B2B SaaS:** For SaaS, April highlights that positioning is the "North Star" of content. If your video doesn't instantly communicate why you are the unique solution to a specific, high-value problem, you aren't just losing views—you're losing market share.
-
----
-*Summarized from [April Dunford’s Official Site](https://www.aprildunford.com/) and [Masters of SaaS Expert Series](https://www.youtube.com/@aprildunford).*

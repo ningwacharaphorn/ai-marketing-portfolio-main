@@ -27,6 +27,3 @@ Tyler Lessard is a leading authority on video messaging and human-centered B2B m
 ### 💡 Notable Background Insights
 - **The "Human Video" Obsession:** Tyler believes that in a world flooded with automated emails, the human face on video is an unfair advantage. If you're not invoking emotion, you're not doing marketing right.
 - **Strategic Insight for B2B SaaS:** For SaaS, Tyler highlights that video is the "trust accelerator" of the modern sales cycle. If your outreach doesn't put a human face behind the message, you aren't just losing responses — you're losing deals to competitors who do.
-
----
-*Summarized from [The Visual Sale](https://www.amazon.com/Visual-Sale-Marcus-Sheridan/dp/1646870182) and [Vidyard YouTube Channel](https://www.youtube.com/@vidyard). *(Content reflects Tyler's Vidyard tenure; current role is CMO at TechnologyAdvice).**
