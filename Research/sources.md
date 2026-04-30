@@ -41,3 +41,14 @@
 - **Recommended Video:** *"The B2B Content System to Get Predictable Leads"*
 - **What to Extract:** The 80/20 distribution rule (creation vs. distribution), content remixing frameworks, and using Reddit/LinkedIn as primary distribution channels for B2B video.
 - **Strategic Insight for B2B SaaS:** For SaaS, Ross emphasizes that "Distribution is the Moat." A YouTube video is not just a standalone asset but a "Content Seed" designed to be remixed into multi-channel touchpoints to dominate the B2B buyer’s attention span across the entire funnel.
+
+---
+
+### 5. Nathan Barry
+- **YouTube:** [Visit Channel](https://www.youtube.com/@thenathanbarryshow)
+- **Background:** Founder and CEO of Kit (formerly ConvertKit). A pioneer in "Creator Marketing" for SaaS, focusing on building media assets that drive software growth.
+- **Why Selected:** Nathan treats his SaaS as a media company first. He provides a masterclass on how founders can use long-form video to build a massive personal brand that feeds directly into their product's ecosystem.
+- **Proven Success:** Scaled Kit to over $40M ARR largely through authority-building content and strategic partnerships with creators.
+- **Recommended Video:** *"The Exact Systems Behind a $1m YouTube Channel"*
+- **What to Extract:** The "Creator-Led Growth" framework, methods for optimizing video engagement over raw views, and how to treat your YouTube channel like a high-growth startup.
+- **Strategic Insight for B2B SaaS:** For SaaS, Nathan emphasizes that "Media is Infrastructure." A YouTube channel isn't a marketing cost; it’s an asset that lowers Customer Acquisition Cost (CAC) over time by building a direct, trusted relationship with the audience.
