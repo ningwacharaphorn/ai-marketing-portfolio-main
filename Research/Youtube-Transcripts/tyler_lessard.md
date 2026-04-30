@@ -4,7 +4,7 @@ Link: https://www.youtube.com/watch?v=4OkHa2aXf8Y&t=2108s
 Content date: Feb 5, 2026
 
 ## Summary
-This episode features Tyler Lessard (VP of Marketing & Chief Video Strategist at Vidyard) making the case that **asynchronous video messaging is the missing human layer** in modern B2B sales. Before diving into video tactics, Tyler draws on his time at BlackBerry—watching a category leader get dethroned by smartphones—to argue that sellers who ignore behavioral shifts get left behind. The episode covers **why video humanizes the sales process**, how to overcome adoption barriers within a sales team, and practical strategies for using video at every stage of the deal cycle.
+This episode features Tyler Lessard — currently CMO at TechnologyAdvice —speaking in his former role as VP of Marketing & Chief Video Strategist at Vidyard. The content reflects his thinking during his Vidyard tenure, making the case that **asynchronous video messaging is the missing human layer** in modern B2B sales. Before diving into video tactics, Tyler draws on his time at BlackBerry—watching a category leader get dethroned by smartphones—to argue that sellers who ignore behavioral shifts get left behind. The episode covers **why video humanizes the sales process**, how to overcome adoption barriers within a sales team, and practical strategies for using video at every stage of the deal cycle.
 
 ## Key points (the "humanity-first" video playbook)
 1. **Move beyond the meeting-centric model:** Live meetings are valuable, but sales teams over-rely on them. Asynchronous video fills the gaps between meetings—keeping sellers top-of-mind and the conversation moving without requiring both parties to be available at the same time. (18:42–20:00)
