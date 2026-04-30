@@ -1,5 +1,5 @@
 # Source: Marcus Sheridan - Your Competitors Will Never Make These Videos (You Should)
-Link: [https://www.youtube.com/@MarcusSheridan](https://www.youtube.com/@MarcusSheridan)
+Link: [https://www.youtube.com/@MarcusSheridan](https://www.youtube.com/watch?v=LITFcFxG82w&t=3s)
 
 Content date: Mar 3, 2026
 
