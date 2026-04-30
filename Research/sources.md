@@ -85,3 +85,14 @@
 - **Recommended Video:** *"856: The Humanity of Video Messaging, with Tyler Lessard"*
 - **What to Extract:** The "Asynchronous Video Messaging" framework, strategies for humanizing the sales process, and the integration of physical gifting with digital education for target accounts.
 - **Strategic Insight for B2B SaaS:** In a digital world where prospects are overwhelmed by automated emails, "Human Video" is your unfair advantage. Tyler emphasizes using brief, authentic video recordings to walk clients through complex proposals or features, making it easier for the broader buying committee to say "yes" without needing another live meeting.
+
+---
+
+### 9. Gaetano DiNardi (Marketing Advice)
+- **YouTube:** [Gaetano DiNardi](https://www.youtube.com/@gaetanodinardi) 
+- **Background:** Founder and Principal Consultant at Marketing Advice, a B2B SaaS advisory practice. Former Director of Growth at Nextiva, VP of Marketing at Sales Hacker (acquired by Outreach), and growth advisor to 50+ SaaS brands including Semrush, Gong, Demandbase, Aura, and Cognism. Expert in AI-driven SEO, demand capture, and YouTube as a core B2B visibility channel.
+- **Why Selected:** To implement the "YouTube as Search & AI Signal" layer. Gaetano's philosophy centers on using YouTube video assets not just for views, but as a trust signal in Google SERPs, AI Overviews, and LLM-based discovery — making YouTube a compounding organic growth channel for B2B SaaS.
+- **Proven Success:** Grew Nextiva from ~$70M to $200M+ in revenue by building a powerful inbound engine fueled by content, SEO, and YouTube. Helped 50+ B2B SaaS brands dominate competitive categories through demand capture and video-first organic strategy.
+- **Recommended Video:** *"Complete AI SEO Guide for B2B SaaS (2026)"*
+- **What to Extract:** The "YouTube as AI Trust Signal" framework, strategies for making video assets rank in both traditional SERPs and AI Overviews, and how B2B SaaS teams can use YouTube to double-occupy search real estate alongside blog content.
+- **Strategic Insight for B2B SaaS:** Most B2B SaaS companies are dramatically underutilizing YouTube. Gaetano highlights that YouTube videos now appear alongside blog posts in Google search results and are increasingly cited in AI-generated answers — meaning a single well-optimized video can drive compounding visibility across both human search and AI discovery simultaneously.
