@@ -77,10 +77,10 @@
 
 ---
 
-### 8. Tyler Lessard (Vidyard)
-- **YouTube:** [Visit Channel](https://www.youtube.com/@vidyard)
-- **Background:** VP of Marketing and Chief Video Strategist at Vidyard, a leading video messaging and hosting platform. Expert in asynchronous video communication and B2B video sales strategies.
-- **Why Selected:** To implement the "Asynchronous Video" and "Video-First Sales" layer. Tyler’s philosophy focuses on moving beyond the 'meeting-centric' model to keep conversations top-of-mind through personalized video messaging.
+### 8. Tyler Lessard (formerly Vidyard)
+- **YouTube:** [Vidyard Channel](https://www.youtube.com/@vidyard) *(content created during Tyler's time at Vidyard)*
+- **Background:** Former VP of Marketing and Chief Video Strategist at Vidyard, a leading video messaging and hosting platform. Currently CMO at TechnologyAdvice. Expert in asynchronous video communication and B2B video sales strategies.
+- **Why Selected:** To implement the "Asynchronous Video" and "Video-First Sales" layer. Tyler's philosophy focuses on moving beyond the 'meeting-centric' model to keep conversations top-of-mind through personalized video messaging.
 - **Proven Success:** Established Vidyard as a thought leader in the video sales space and helped thousands of sales teams humanize their outreach to build faster trust and better engagement.
 - **Recommended Video:** *"856: The Humanity of Video Messaging, with Tyler Lessard"*
 - **What to Extract:** The "Asynchronous Video Messaging" framework, strategies for humanizing the sales process, and the integration of physical gifting with digital education for target accounts.
