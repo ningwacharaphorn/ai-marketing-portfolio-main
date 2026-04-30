@@ -20,3 +20,10 @@ This episode features April Dunford explaining positioning as the foundational i
 
 ---
 **Bottom Line:** Positioning is a set of decisions that makes your product “obviously” the right choice for the right customers. Get the alternatives and value themes right, validate it through real sales conversations, then scale once the thesis is proven.
+
+---
+
+## 📄 Raw Transcript Content
+> **Data collected via:** Supadata API Playground
+```text
+[]
