@@ -78,7 +78,7 @@
 ---
 
 ### 8. Tyler Lessard (formerly Vidyard)
-- **YouTube:** [Vidyard Channel](https://www.youtube.com/@vidyard) *(content created during Tyler's time at Vidyard)*
+- **YouTube:** [Visit Channel](https://www.youtube.com/@vidyard) *(content created during Tyler's time at Vidyard)*
 - **Background:** Former VP of Marketing and Chief Video Strategist at Vidyard, a leading video messaging and hosting platform. Currently CMO at TechnologyAdvice. Expert in asynchronous video communication and B2B video sales strategies.
 - **Why Selected:** To implement the "Asynchronous Video" and "Video-First Sales" layer. Tyler's philosophy focuses on moving beyond the 'meeting-centric' model to keep conversations top-of-mind through personalized video messaging.
 - **Proven Success:** Established Vidyard as a thought leader in the video sales space and helped thousands of sales teams humanize their outreach to build faster trust and better engagement.
@@ -100,7 +100,7 @@
 ---
 
 ### 10. Kieran Flanagan
-- **YouTube:** [Marketing Against the Grain](https://www.youtube.com/@MATGpod) *(co-hosted with the HubSpot CMO.)*
+- **YouTube:** [Visit Channel](https://www.youtube.com/@MATGpod) *(co-hosted with the HubSpot CMO.)*
 - **Background:** SVP of Marketing at HubSpot, leading a team of 300 marketers, and formerly the CMO of Zapier. He is a specialist in "personality-led growth" and media-first B2B strategies.
 - **Why Selected:** To lead the transition from traditional blogging-focused programs to media and creator-led initiatives. Kieran's strategy recognizes that modern platforms like YouTube, podcasts, and newsletters favor individual creators over corporate brands.
 - **Proven Success:** Successfully managed high-scale marketing operations and built a personal brand with over 106,000 followers on LinkedIn, advocating for human-centric content in B2B.
