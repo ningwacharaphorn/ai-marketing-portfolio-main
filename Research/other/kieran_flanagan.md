@@ -3,9 +3,9 @@
 Kieran Flanagan is a prominent B2B marketing leader and growth strategist known for his "Media-First" and "Personality-Led" approach. He has been instrumental in scaling some of the world's most successful SaaS companies by moving beyond traditional playbooks toward creator-led growth.
 
 ### 📚 Other Sources:
-- **YouTube/Podcast:** [Marketing Against the Grain](https://www.youtube.com/@MarketingAgainstTheGrain) - Co-hosted with HubSpot’s CMO, focusing on high-level marketing trends and AI.
+- **YouTube/Podcast:** [Marketing Against the Grain](https://www.youtube.com/@MATGpod/videos) - Co-hosted with HubSpot’s CMO, focusing on high-level marketing trends and AI.
 - **Podcast:** [The Future of B2B Marketing with Kieran Flanagan](https://www.youtube.com/watch?v=NQtml9AQZk8) - A deep dive into how AI and LLMs are disrupting traditional informational content.
-- **LinkedIn:** [Kieran Flanagan](https://www.linkedin.com/in/kieranflanagan/) - Over 106k followers, focusing on media-first strategies and personality-led growth.
+- **LinkedIn:** [Kieran Flanagan](https://www.linkedin.com/in/kieranjflanagan/) - Over 106k followers, focusing on media-first strategies and personality-led growth.
 
 ### 🚀 Professional Timeline
 
