@@ -23,7 +23,7 @@
 ---
 
 ### 3. April Dunford
-- **YouTube:** [Visit Channel](hhttps://www.youtube.com/@positioningshow)
+- **YouTube:** [Visit Channel](https://www.youtube.com/@positioningshow)
 - **Background:** World-renowned positioning expert, CEO of Ambient Strategy, and author of *Obviously Awesome*. Trusted by 200+ companies to define their market category.
 - **Why Selected:** The "Gold Standard" for B2B SaaS positioning. Her framework ensures that our video content doesn't just get views, but resonates with the *right* customers by defining the perfect market context.
 - **Proven Success:** Helped scale multiple startups to massive acquisitions by reframing how customers perceive their product's value.
