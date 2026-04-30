@@ -4,7 +4,6 @@ Chris Savage is a visionary leader in the video marketing space, known for co-fo
 
 ### 📚 Other Sources:
 - **YouTube:** [Wistia](https://www.youtube.com/@wistia) - Lessons on video production, marketing strategy, and brand building.
-- **Podcast:** [Talking Too Much](https://wistia.com/series/talking-too-much) - Chris’s podcast exploring the intersection of business, creativity, and technology.
 - **Official Site:** [Wistia.com](https://wistia.com/) - Leading video marketing platform for business.
 
 ### 🚀 Professional Timeline
