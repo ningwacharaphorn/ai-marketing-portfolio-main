@@ -52,3 +52,14 @@
 - **Recommended Video:** *"The Exact Systems Behind a $1m YouTube Channel"*
 - **What to Extract:** The "Creator-Led Growth" framework, methods for optimizing video engagement over raw views, and how to treat your YouTube channel like a high-growth startup.
 - **Strategic Insight for B2B SaaS:** For SaaS, Nathan emphasizes that "Media is Infrastructure." A YouTube channel isn't a marketing cost; it’s an asset that lowers Customer Acquisition Cost (CAC) over time by building a direct, trusted relationship with the audience.
+
+---
+
+### 6. Marcus Sheridan
+- **YouTube:** [Visit Channel](https://www.youtube.com/@MarcusSheridan)
+- **Background:** Author of "They Ask, You Answer" and partner at IMPACT. Expert in sales enablement through video.
+- **Why Selected:** To implement the "Sales Conversion" layer. Marcus’s framework ensures your YouTube videos aren't just for awareness, but are active tools to close SaaS deals.
+- **Proven Success:** Transformed his own struggling business (River Pools) into a global leader and has coached thousands of B2B/SaaS companies to scale using his content frameworks.
+- **Recommended Video:** *"Your Competitors Will Never Make These Videos (You Should)"*
+- **What to Extract:** The "Big 5" video topics that drive B2B sales (Pricing, Problems, Versus, Reviews, Best) and the "Assignment Selling" workflow.
+- **Strategic Insight for B2B SaaS:** For SaaS, Marcus emphasizes that "Trust is the Ultimate Currency." If your video content avoids difficult questions—like pricing, competitors, or drawbacks—you are pushing buyers away. Use YouTube to answer every uncomfortable question your customers have, becoming the most trusted teacher in your space.
