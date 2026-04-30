@@ -2,7 +2,7 @@
 
 **Topic:** Optimizing for Influence and Recall (Beyond the Click-Based Era)
 
-**Reference Source:** [Chris Savage’s Post on the Shift from Clicks to Influence](https://www.linkedin.com/posts/cjsavage_everyone-says-optimize-for-clicks-but-activity-7450566585951399936-Hnyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/cjsavage_everyone-says-optimize-for-clicks-but-activity-7450566585951399936-Hnyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
 
 ### 💡 Strategic Takeaways from Chris Savage:
 

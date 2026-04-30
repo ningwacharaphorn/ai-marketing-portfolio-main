@@ -2,7 +2,7 @@
 
 **Topic:** The Role of YouTube in Modern SEO & AI Discoverability
 
-**Reference Source:** [Alex Bass (Founder @ efficient.app) on LinkedIn](https://www.linkedin.com/posts/alexhbass_the-google-update-thats-changing-seo-and-share-7405297965223067648-RJzF/)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/alexhbass_the-google-update-thats-changing-seo-and-share-7405297965223067648-RJzF/)
 
 ### 💡 Strategic Takeaways from Alex Bass regarding Sam Oh:
 

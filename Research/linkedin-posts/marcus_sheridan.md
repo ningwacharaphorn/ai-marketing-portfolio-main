@@ -2,7 +2,7 @@
 
 **Topic:** The Endless Customers Framework – Why Transparency is the Ultimate Trust Signal
 
-**Reference Source:** [Keith Gilmore's Insights on Marcus Sheridan at Endless Customers Live](https://www.linkedin.com/posts/kgonline_endlesscustomers-marketingstrategy-contentmarketing-ugcPost-7447254318069694465-nOmT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/kgonline_endlesscustomers-marketingstrategy-contentmarketing-ugcPost-7447254318069694465-nOmT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
 
 ### 💡 Strategic Takeaways from Marcus Sheridan (Author of "They Ask, You Answer"):
 

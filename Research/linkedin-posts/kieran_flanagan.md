@@ -2,7 +2,7 @@
 
 **Topic:** AI for Content Ideation – Breaking the Cycle of Patterned Content
 
-**Reference Source:** [Kieran Flanagan’s Insights on AI as an Ideation Tool](https://www.linkedin.com/posts/kieranjflanagan_ai-can-be-a-great-content-creation-tool-if-activity-7455240208519794688-y8Fh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/kieranjflanagan_ai-can-be-a-great-content-creation-tool-if-activity-7455240208519794688-y8Fh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
 
 ### 💡 Strategic Takeaways from Kieran Flanagan (SVP of Marketing at HubSpot):
 

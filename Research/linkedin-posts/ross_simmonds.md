@@ -1,7 +1,7 @@
 # LinkedIn Insights: Expert Analysis on Ross Simmonds’ Strategic Impact
 
 **Topic:** “Memory” as the New Layer of Discovery (Beyond GEO vs SEO vs AEO)  
-**Reference Source:** [SEO Week’s Post featuring Ross Simmonds](Https://www.linkedin.com/posts/ross-simmonds-kicked-off-day-3-the-ecosystem-share-7455256413846654976-bgOx)
+**Reference Source:** [LinkedIn](Https://www.linkedin.com/posts/ross-simmonds-kicked-off-day-3-the-ecosystem-share-7455256413846654976-bgOx)
 
 ### 💡 Strategic Takeaways from Ross Simmonds (via SEO Week):
 Ross’ core insight is that the industry is over-rotating on naming debates (GEO vs. SEO vs. AEO) and missing the bigger shift: **AI systems are building memory over time**, and that memory will shape what gets discovered, recommended, and trusted.

@@ -2,7 +2,7 @@
 
 **Topic:** Switching from Consumer to Creator – The Decision that Drives Audience Growth
 
-**Reference Source:** [Nathan Barry’s Insights on Audience Building](https://www.linkedin.com/posts/nathanbarry_are-you-a-consumer-or-a-creator-it-sounds-activity-7443295782604111873-dbiU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/nathanbarry_are-you-a-consumer-or-a-creator-it-sounds-activity-7443295782604111873-dbiU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
 
 ### 💡 Strategic Takeaways from Nathan Barry (Founder & CEO at Kit):
 

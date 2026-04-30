@@ -2,7 +2,7 @@
 
 **Topic:** The Death of Legacy Inbound – Building AI-Resistant Distribution Moats
 
-**Reference Source:** [Gaetano Nino DiNardi's Insights on the Evolution of SEO and HubSpot’s "UNBOUND" Shift](https://www.linkedin.com/posts/officialg_hubspot-changed-their-flagship-conference-share-7453501317035175936-G2Q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/officialg_hubspot-changed-their-flagship-conference-share-7453501317035175936-G2Q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4)
 
 ### 💡 Strategic Takeaways from Gaetano Nino DiNardi (Growth Advisor | AI SEO for B2B SaaS):
 

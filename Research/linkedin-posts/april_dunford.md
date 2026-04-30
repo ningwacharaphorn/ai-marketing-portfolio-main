@@ -2,7 +2,7 @@
 
 **Topic:** Overcoming Positioning Roadblocks (Alignment, Alternatives, Differentiated Value) 
  
-**Reference Source:** [April Dunford on LinkedIn](https://www.linkedin.com/posts/aprildunford_im-guesting-on-lennys-newsletter-today-activity-7437118092029296640-vQwD)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/aprildunford_im-guesting-on-lennys-newsletter-today-activity-7437118092029296640-vQwD)
 
 ### 💡 Strategic Takeaways from April Dunford:
 April outlines the “hard” positioning roadblocks that stop teams from landing clear, usable positioning—and how to recognize them early. The key insights are:

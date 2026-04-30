@@ -2,7 +2,7 @@
 
 **Topic:** The Shift from Static Content to Video-First B2B Marketing
 
-**Reference Source:** [VS Biz Design on LinkedIn](https://www.linkedin.com/posts/contentmarketing-b2bmarketing-customerengagement-ugcPost-7373359787205459969-aayb)
+**Reference Source:** [LinkedIn](https://www.linkedin.com/posts/contentmarketing-b2bmarketing-customerengagement-ugcPost-7373359787205459969-aayb)
 
 ### 💡 Strategic Takeaways from VS Biz Design regarding Tyler Lessard:
 
