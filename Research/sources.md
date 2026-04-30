@@ -96,3 +96,14 @@
 - **Recommended Video:** *"Complete AI SEO Guide for B2B SaaS (2026)"*
 - **What to Extract:** The "YouTube as AI Trust Signal" framework, strategies for making video assets rank in both traditional SERPs and AI Overviews, and how B2B SaaS teams can use YouTube to double-occupy search real estate alongside blog content.
 - **Strategic Insight for B2B SaaS:** Most B2B SaaS companies are dramatically underutilizing YouTube. Gaetano highlights that YouTube videos now appear alongside blog posts in Google search results and are increasingly cited in AI-generated answers — meaning a single well-optimized video can drive compounding visibility across both human search and AI discovery simultaneously.
+
+---
+
+### 10. Kieran Flanagan
+- **YouTube:** [Marketing Against the Grain](https://www.youtube.com/@MATGpod) *(co-hosted with the HubSpot CMO.)*
+- **Background:** SVP of Marketing at HubSpot, leading a team of 300 marketers, and formerly the CMO of Zapier. He is a specialist in "personality-led growth" and media-first B2B strategies.
+- **Why Selected:** To lead the transition from traditional blogging-focused programs to media and creator-led initiatives. Kieran's strategy recognizes that modern platforms like YouTube, podcasts, and newsletters favor individual creators over corporate brands.
+- **Proven Success:** Successfully managed high-scale marketing operations and built a personal brand with over 106,000 followers on LinkedIn, advocating for human-centric content in B2B.
+- **Recommended Video:** *"The Future of B2B Marketing" (January 2026)."*
+- **What to Extract:** The "Personality-Led Growth" framework, strategies for humanizing B2B content, and the technical shift from SEO-driven blogging to media-led distribution.
+- **Strategic Insight for B2B SaaS:** In an AI-driven landscape, the "Corporate Blog" is losing ground to human authority. To remain visible to algorithms and build genuine trust, B2B companies must prioritize "Affinity" by acting like media companies and empowering internal creators to be the face of the brand.
