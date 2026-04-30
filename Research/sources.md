@@ -30,3 +30,14 @@
 - **Recommended Video:** *"How to Position Your B2B SaaS for Explosive Growth"*
 - **What to Extract:** The 5-component positioning framework, methods for competitive comparison, and the "Sales Pitch" structure that aligns marketing with sales.
 - **Strategic Insight for B2B SaaS:** For SaaS, April highlights that positioning is the "North Star" of content. If your video doesn't instantly communicate why you are the unique solution to a specific, high-value problem, you aren't just losing views—you're losing market share.
+
+---
+
+### 4. Ross Simmonds
+- **YouTube:** [Visit Channel](https://www.youtube.com/@RossSimmonds)
+- **Background:** Founder of Foundation Inc. (B2B content agency) and creator of the "Create Once, Distribute Forever" framework; specialist in SaaS content distribution and competitor intelligence.
+- **Why Selected:** To solve the "Invisible Content" problem. Ross provides the tactical distribution engine needed to turn a single B2B YouTube video into dozens of touchpoints across the SaaS buyer journey.
+- **Proven Success:** Helped global SaaS brands like Canva and HubSpot scale their organic reach through data-driven content teardowns and aggressive distribution strategies.
+- **Recommended Video:** *"The B2B Content System to Get Predictable Leads"*
+- **What to Extract:** The 80/20 distribution rule (creation vs. distribution), content remixing frameworks, and using Reddit/LinkedIn as primary distribution channels for B2B video.
+- **Strategic Insight for B2B SaaS:** For SaaS, Ross emphasizes that "Distribution is the Moat." A YouTube video is not just a standalone asset but a "Content Seed" designed to be remixed into multi-channel touchpoints to dominate the B2B buyer’s attention span across the entire funnel.
