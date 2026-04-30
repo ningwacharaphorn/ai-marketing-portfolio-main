@@ -37,3 +37,72 @@ Marcus emphasizes that traditional buyer patterns remain valid and are more crit
 ---
 
 *Research Note: This document summarizes the "Endless Customers" framework discussed in 2026. While AI tools change how content is discovered, the fundamental "The Big 5" topics remain the core of any successful trust-based marketing strategy.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/kgonline_endlesscustomers-marketingstrategy-contentmarketing-ugcPost-7447254318069694465-nOmT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4]
+```text
+[Day 3 at Endless Customers Live CANNOT be ignored or undersold.
+
+Marcus Sheridan didn’t really share some new tactic…
+
+He showed, in real time, how an old buyer pattern he taught in his original book, They Ask You Answer… 🤔
+
+Is MORE IMPORTANT now than ever.
+
+This pattern revealed that buyers are mainly focused on 5 topics, in order to feel confident about making buying decisions… 
+
+1️⃣ Cost
+2️⃣ Problems
+3️⃣ Comparisons
+4️⃣ Reviews/case studies/testimonials
+5️⃣ Best of (and/or) worst of lists.
+
+Marcus was teaching these long before AI ever entered the conversation. 🤩
+
+Basically, what worked before AI is now being validated by AI.
+
+In other words, the standard didn’t change. (Nope!)
+
+But the weight of the consequences did. 😬
+
+For a long time, a business could avoid those conversations on its website and still get by. 🤷🏻‍♂️
+
+- You could wait until the appointment.
+- You could let sales carry the weight.
+- You could keep hoping your messaging was enough..
+
+But now, more than ever, they (you & I) long for honesty and clarity in order to feel confident about moving forward.
+
+And now AI is evaluating whether your business actually provides it. 🤖
+
+This is NOT really about learning a new playbook…
+
+As much as it’s about finally taking seriously what buyers have been asking for all along.
+
+Just clear, honest explanations from a real person.
+
+That’s also why VIDEO CONTENT matters more than ever. 
+
+(Read the attached slide images.👇🤓)
+
+❌ Not always highly-produced, polished brand videos (they have their place). 
+
+But video content that…
+
+✔️ Address concerns
+✔️ Shows the thing
+✔️ Explains the tradeoffs
+✔️ Helps someone understand what to expect.
+
+That kind of content does something aversion written content simply cannot.
+
+It makes your business easier to understand, easier to trust, and more HUMAN. ❤️
+
+The lesson here is NOT that AI changes everything.
+
+It’s that AI is confirming what principle-driven businesses should have been doing all along.
+
+
+hashtag#endlesscustomers hashtag#marketingstrategy hashtag#contentmarketing hashtag#aiinmarketing]

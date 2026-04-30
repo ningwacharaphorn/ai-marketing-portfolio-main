@@ -28,3 +28,18 @@ Based on this clip and the broader B2B marketing discussion:
 
 ---
 *Research Note: This document cross-references Tyler Lessard's video content philosophy with expert reflections from the B2B SaaS marketing community to validate the business impact of video-led content strategy.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/contentmarketing-b2bmarketing-customerengagement-ugcPost-7373359787205459969-aayb]
+```text
+[Is your content still stuck in the age of ebooks and whitepapers?
+
+"Content marketing today is less about SEO, and more about building real relationships with audiences—before, during, and after they become customers."
+
+In this powerful clip from B2B, Revenue Leaders, Tyler Lessard, VP of Marketing and Chief Video Strategist at Vidyard, shares how content marketing must evolve. It's no longer just about inbound blogs or gated downloads. The game has shifted: your buyers live on podcasts, social media, and video streams. Static, written content isn't enough. Meeting customers where they are—and how they want to engage—is now the priority.
+
+Are you diversifying your content, or still stuck in the old playbook?
+
+hashtag#ContentMarketing hashtag#B2BMarketing hashtag#CustomerEngagement hashtag#DigitalStrategy hashtag#VideoMarketing]

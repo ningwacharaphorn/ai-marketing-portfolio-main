@@ -28,3 +28,21 @@ Based on the broader discussion in the SEO community:
 
 ---
 *Research Note: This document cross-references Sam Oh’s YouTube content with expert reflections from the B2B SaaS founder community to validate the business impact of video-led SEO.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/alexhbass_the-google-update-thats-changing-seo-and-share-7405297965223067648-RJzF/]
+```text
+[If you're a growth marketer or running an affiliate program for B2B SaaS, you have to watch Ahrefs most recent video.
+
+1. YouTube is one of the most referenced sources in AI overviews, so if you're not being mentioned there by top creators, you don't exist in the eyes of AI.
+
+2. Search queries (questions) get broken down by a handful of related queries, from "best x for y" to "x vs y" to "x alternatives", so if you're not showing up in these listicles from recommended sites, you're not showing up in AI overviews.
+
+3. Affiliate is a great way to get these listicle sites to actually cover you, don't expect them to cover you out of the kindness of their own heart.
+
+Here's the full video, worth a watch:
+https://lnkd.in/duiZVWaa
+
+Awesome video Sam Oh, more people need to see this!]

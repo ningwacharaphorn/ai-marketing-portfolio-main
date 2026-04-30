@@ -30,3 +30,70 @@ Based on the post’s message:
 ---
 
 *Research Note: This document summarizes Chris Savage’s “influence-first” framing: in a modern digital ecosystem, the competitive advantage shifts from capturing traffic to building lasting mental real estate—create useful, memorable content that earns branded search and drives demand through deep-seated recall.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/cjsavage_everyone-says-optimize-for-clicks-but-activity-7450566585951399936-Hnyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4]
+```text
+[Everyone says: “optimize for clicks.”
+
+But what if the click is no longer the thing that actually drives growth?
+
+The internet changed.
+
+People don’t leave platforms like they used to. Feeds, inboxes, search, AI everything is designed to keep you there.
+
+But most marketing teams are still operating like it’s 2015.
+
+Clicks.
+Traffic.
+Attribution.
+
+And because of that, we’re systematically undercounting what’s working…and over-rewarding what’s easiest to measure.
+
+I was talking to Amanda Natividad on Talking Too Loud, and the conversation completely reframed how I think about the internet today. 
+
+The shift is simple, but uncomfortable:
+
+The click isn’t the primary signal anymore. It’s increasingly the result of influence.
+
+And influence means:
+
+Are people learning from you?
+Do they remember you?
+Will they search for you later?
+
+Can you relate to this?
+
+You put something out into the world…it doesn’t drive a ton of clicks.
+
+But then:
+Branded search goes up
+People mention it weeks later
+Someone says, “I’ve been seeing your stuff everywhere”
+
+You can’t draw a straight line.
+
+And that’s exactly why most teams ignore it.
+
+That’s the trap:
+If you only optimize for clicks…you’ll miss the content that’s actually creating demand.
+
+So what should you do instead?
+
+Make things that stand on their own.
+No “click to finish the thought.”
+No “link in bio for the real value.”
+
+Just:
+Give the idea.
+Make it useful.
+Make it memorable.
+
+Because when this works…people don’t click. They come looking for you.
+Most teams are still optimizing for what’s measurable.
+
+The best teams are optimizing for what’s remembered.
+
+And those two things are diverging faster than most people realize.]

@@ -39,3 +39,28 @@ Based on the post’s message:
 
 ---
 *Research Note: This document summarizes Ross Simmonds’ “memory-first” framing: in AI-driven discovery, the competitive advantage shifts from ranking to recall—create investment-grade content that earns repeated distribution and sticks in buyer memory.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [Https://www.linkedin.com/posts/ross-simmonds-kicked-off-day-3-the-ecosystem-share-7455256413846654976-bgOx]
+```text
+[Ross Simmonds kicked off Day 3: The Ecosystem with a wake-up call: we’re arguing about the wrong things.
+
+While the industry debates GEO vs. SEO vs. AEO, Ross is focused on something much bigger: Memory.
+
+“Not enough folks in our industry are talking about memory.”
+
+As AI systems learn more about users over time, memory becomes the layer that shapes discovery, recommendations, and, ultimately, decisions.
+
+Key takeaways:
+→ Treat your content like an investment, not output
+→ Understand what content is actually influencing buyers
+→ Rethink thought leadership - too much of it is mediocre
+→ Don’t ignore formats like YouTube Shorts
+
+“We’re losing sight of what actually matters.”
+
+We're at a pivotal moment. The opportunity is there, but only if we focus on what’s really changing.
+
+Memory is the future.]

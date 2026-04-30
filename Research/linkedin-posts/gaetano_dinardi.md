@@ -34,3 +34,41 @@ Gaetano highlights a massive shift in the industry, evidenced by HubSpot rebrand
 ---
 
 *Research Note: This document summarizes the "AI-Resistant Distribution" framework discussed in 2026. As AI disrupts traditional search engines, the focus of B2B SaaS marketing must shift from capturing informational clicks to building deep-seated brand authority and private community influence.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/officialg_hubspot-changed-their-flagship-conference-share-7453501317035175936-G2Q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4]
+```text
+[HubSpot changed their flagship conference name from INBOUND to UNBOUND -- what does that tell you about where SEO is going?
+
+Think about how many meetings were called. How many hours of internal slogging this decision created. 
+
+This was a top down initiative to decouple HubSpot's brand from legacy SEO. 
+
+The term INBOUND is now considered POISON. ☠️
+The writing is on the wall. Generic, informational traffic will soon be going all the way to ZERO. 
+
+The 7 most AI resistant traffic types are distribution moats. 
+
+1. Substack, beehives and newsletters tied to personal brand creators -- these audiences are built with hand-to-hand combat where deliverability is high due to channels like email subscription and app notifications.
+
+2. eCommerce product pages -- let's say you need to buy men's basketball shoes, size 12 with wide foot. You are going to buy this on Nike's website or mobile app. Task completion needs to happen where the consumer has the highest degree of confidence and trust. 
+
+3. Homepage traffic from branded search or direct traffic -- this will be driven by GEO / Zero-Click marketing / AI-answer recommendations from LLMs. And activities happening on offsite channels like events, which drive up branded search demand.
+
+** Referral traffic from LLMs themselves will be very small and plateau. Most of it going to homepages and branded content **
+
+4. YouTube channels and podcasts from prominent creators -- Who are consistently feeding the algorithms with valuable content to drive up channel subscriptions, followers and recurring content consumers. 
+
+5. The next is original data reports and survey studies like Wynter's How B2B SaaS CMOs Buy Software in 2026. 
+
+6. Affiliates, analyst, review sites and sponsored content -- It will be interesting to see what happens to players like G2, Gartner, PC Mag, Business dot com, etc etc. 
+
+My prediction is they will lose tons of traffic, but somehow remain relevant as a potential way to fight back against fake AI slop / self-promotional listicle pages / black-hat GEO. 
+
+7. The last is private channels and communities like Slack groups, Discords, WhatsApp groups and forum sites. I think people will continue recommending brands and tools privately, while sharing links to interesting content which will not have any attributable tracking. 
+
+The "we need to become thought leaders" PDF / whitepaper / gated content / top of funnel content playbook is totally dead. 
+
+B2B marketing will soon be forced to be like B2C marketing. Because there isn't much time left for the tired corporate playbook.]

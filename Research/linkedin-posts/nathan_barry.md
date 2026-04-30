@@ -34,3 +34,20 @@ Nathan’s core insight is that the primary barrier to building a valuable audie
 
 ---
 *Research Note: This document summarizes Nathan Barry’s "Decision-First" framework: stop being a passive consumer and start being an active creator. In the game of audience building, the winners are those who decide to show up and create every single day.*
+
+---
+
+## 📄 Raw LinkedIn Post Content
+> **Source Link:** [https://www.linkedin.com/posts/nathanbarry_are-you-a-consumer-or-a-creator-it-sounds-activity-7443295782604111873-dbiU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlNuTQBPNCraJN1g4yISwDD0NPF7CSXzR4]
+```text
+[Are you a consumer or a creator?
+
+It sounds like a simple question. But the answer explains a lot about why some people build audiences and others don't.
+
+Creators use the same platforms and tools as everyone else. The difference is what they do with them. While others scroll, they open their writing app. While others critique what someone else made, they brainstorm new ideas.
+
+They also consume—but with purpose. Everything they read or watch is fuel for the next thing they make.
+
+You don't need inspiration to start. You need a decision.
+
+Switch from consumer to creator.]
