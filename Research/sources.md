@@ -89,7 +89,7 @@
 ---
 
 ### 9. Gaetano DiNardi (Marketing Advice)
-- **YouTube:** [Gaetano DiNardi](https://www.youtube.com/@gaetanodinardi) 
+- **YouTube:** Appeared on YouTube as guest expert.
 - **Background:** Founder and Principal Consultant at Marketing Advice, a B2B SaaS advisory practice. Former Director of Growth at Nextiva, VP of Marketing at Sales Hacker (acquired by Outreach), and growth advisor to 50+ SaaS brands including Semrush, Gong, Demandbase, Aura, and Cognism. Expert in AI-driven SEO, demand capture, and YouTube as a core B2B visibility channel.
 - **Why Selected:** To implement the "YouTube as Search & AI Signal" layer. Gaetano's philosophy centers on using YouTube video assets not just for views, but as a trust signal in Google SERPs, AI Overviews, and LLM-based discovery — making YouTube a compounding organic growth channel for B2B SaaS.
 - **Proven Success:** Grew Nextiva from ~$70M to $200M+ in revenue by building a powerful inbound engine fueled by content, SEO, and YouTube. Helped 50+ B2B SaaS brands dominate competitive categories through demand capture and video-first organic strategy.
